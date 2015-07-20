@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Poiret+One);
+
+#title{
+  text-decoration: underline;
+}
+
+#main{
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  font-size: 110%;
+  background-color: #dbfdf4;
+}
+
+.info{
+  background-color: white;
+  margin: 0px 300px;
+}
