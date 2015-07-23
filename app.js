@@ -1,5 +1,10 @@
 $(document).ready(function(){
 
+  $("#college").hover(function () {
+    $("#college").replaceWith( " <img src='http://images.newschoolers.com/images/17/00/73/37/95/733795.gif'> " )
+   });
+
+
   $("#hob1").click(function () {
     $("#hob1").replaceWith( " <img src='http://www.ypc.org/news/images/20142015/golden-gate-festival_chorale.jpg'> " )
    });
